@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Fuzzy+Bubbles");
+* {
+    font-family: "Fuzzy Bubbles", "Courier New", monospace;
+  }
+
+#obrazek {
+    width: 600px;
+    height: 500px;
+}
